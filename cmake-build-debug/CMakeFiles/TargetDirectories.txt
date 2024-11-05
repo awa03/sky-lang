@@ -1,0 +1,3 @@
+/home/aiden-allen/Desktop/sky-lang/cmake-build-debug/CMakeFiles/sky_lang.dir
+/home/aiden-allen/Desktop/sky-lang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aiden-allen/Desktop/sky-lang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
